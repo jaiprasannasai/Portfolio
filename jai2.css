@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: darkgray;
+}
+header{
+    background-color:#333;
+    color: #fff;
+    padding: 20px;
+}
+ul li a{
+    color:rgb(187, 54, 204);
+    text-decoration: none;
+}
+li{
+    display: inline;
+    margin-right: 50px;
+}
+img{
+    border-radius: 50%;
+}
+.one{
+    background-color:rgb(236, 42, 7);
+
+}
+.Jai{
+    display:inline-flex;
+    text-decoration-line:underline;
+    background-color:darkgray;
+
+    padding: 20px;
+    
+    
+}
+
+.two{
+    background-color: black;
+    color: white;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
